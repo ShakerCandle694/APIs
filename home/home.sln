@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mangas", "Mangas\Mangas.csproj", "{DE95C186-6138-4D6F-8A60-CFEA583CF077}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Mangas (1)", "Mangas", "{8D502D4C-3EB9-4B22-9962-84EA35B194E9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mangas", "Mangas\Mangas\Mangas.csproj", "{763A7C7C-0C74-45F5-804F-6C2AD7FBC9E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE95C186-6138-4D6F-8A60-CFEA583CF077}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE95C186-6138-4D6F-8A60-CFEA583CF077}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE95C186-6138-4D6F-8A60-CFEA583CF077}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE95C186-6138-4D6F-8A60-CFEA583CF077}.Release|Any CPU.Build.0 = Release|Any CPU
+		{763A7C7C-0C74-45F5-804F-6C2AD7FBC9E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{763A7C7C-0C74-45F5-804F-6C2AD7FBC9E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{763A7C7C-0C74-45F5-804F-6C2AD7FBC9E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{763A7C7C-0C74-45F5-804F-6C2AD7FBC9E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{763A7C7C-0C74-45F5-804F-6C2AD7FBC9E7} = {8D502D4C-3EB9-4B22-9962-84EA35B194E9}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B856FB3-092F-4429-886F-460A799A6D09}
+	EndGlobalSection
+EndGlobal
